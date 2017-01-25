@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Controls Personalitzats</string>
+    <string name="action_settings">Configuracions</string>
+    <string name="contrasena">Clau d\'accés:</string>
+    <string name="credit_card">Targeta de crèdit</string>
+    <string name="transference">Transferència</string>
+    <string name="usuario">Usuari:</string>
+    <string name="payment">Pagar</string>
+</resources>

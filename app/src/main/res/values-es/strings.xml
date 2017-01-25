@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Controles Personalizados</string>
+    <string name="action_settings">Configuraciones</string>
+    <string name="contrasena">Contraseña:</string>
+    <string name="credit_card">Tarjeta de crédito</string>
+    <string name="transference">Transferencia</string>
+    <string name="usuario">Usuario:</string>
+    <string name="payment">Pagar</string>
+</resources>

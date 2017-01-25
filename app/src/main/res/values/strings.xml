@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Customized Views</string>
+    <string name="action_settings">Settings</string>
+    <string name="usuario">User:</string>
+    <string name="contrasena">Password:</string>
+    <string name="login">Login</string>
+    <string name="payment">Pay</string>
+    <string name="transference">Transference</string>
+    <string name="credit_card">Credit card</string>
+    <string name="paypal">Paypal</string>
+
+</resources>
